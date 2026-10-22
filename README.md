@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository supports ***[Sonoran AI Consulting's(https://sonoran-ai.com)*** work organizing and reviewing potential funding opportunities. The grant prospect database brings funder and program information into a structured table, while the accompanying notebook provides a repeatable workflow for examining the dataset, reviewing data quality, and exploring prospects by type, status, fit score, deadline and funding-cycle notes, and reported funding ranges.
+This repository supports [Sonoran AI Consulting's](https://sonoran-ai.com) work organizing and reviewing potential funding opportunities. The grant prospect database brings funder and program information into a structured table, while the accompanying notebook provides a repeatable workflow for examining the dataset, reviewing data quality, and exploring prospects by type, status, fit score, deadline and funding-cycle notes, and reported funding ranges.
 
 The notebook is intended to support research and decision-making. It does not independently verify funding opportunities, establish legal eligibility, or guarantee a prospect's suitability.
 
