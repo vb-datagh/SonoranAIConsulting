@@ -103,17 +103,6 @@ Install the required dependencies using:
 python -m pip install pandas numpy matplotlib jupyter
 ```
 
-### Running the Notebook
-
-1. Clone or download the repository.
-2. Locate the grant prospect CSV file.
-3. Place the CSV in the repository root or the `data/` directory.
-4. Confirm that the filename and location match the notebook's `DATA_CANDIDATES` configuration.
-5. Open `notebooks/Grant Prospect Database - Preview.ipynb` in Jupyter.
-6. Run the cells sequentially to generate the database overview, data-quality summaries, and visualizations.
-
-The original notebook can also be used to review the existing exploratory analysis.
-
 ## Data Quality and Responsible Interpretation
 
 The usefulness of grant research depends on the accuracy, completeness, and timeliness of the underlying information.
