@@ -1,4 +1,3 @@
-# Sonoran AI Consulting
 # Sonoran AI Consulting | Grant Prospect Database
 
 ### Data-Driven Grant Research, Funding Discovery, and Prospect Analysis
