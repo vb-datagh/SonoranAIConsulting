@@ -12,8 +12,7 @@ The notebook is intended to support research and decision-making. It does not in
 
 | Resource                                            | Purpose                                                                                                      |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| `Grant Prospect Database.ipynb`                     | Existing notebook with initial database inspection and exploratory analysis                                  |
-| `notebooks/Grant Prospect Database - Preview.ipynb` | Expanded notebook template for database overview, data quality, visualizations, and prospect review          |
+| `Grant Prospect Database.ipynb`                     | Existing notebook with initial database inspection and exploratory analysis                    
 | Grant prospect CSV                                  | Source dataset loaded by the notebook; keep the filename and path consistent with the notebook configuration |
 
 > **Data availability:** The expanded notebook expects the grant prospect CSV to be present in the repository root or `data/` directory. Do not publish confidential, personal, or otherwise sensitive information in a public repository.
